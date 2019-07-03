@@ -1,5 +1,5 @@
 # Rails_suscribers
-==================
+------------------
 A simple Ruby on Rails app to collect email signups and save them into a database. At the bottom of the page, when a user enters his email, the email is saved into a database.
 
 ## How it works
@@ -32,6 +32,6 @@ While it's running, to check the database, do the following:
 		• Switch into your app’s folder by typing cd innovation-cloud
 		• Start the Rails console by running rails console
 		• When you enter the Rails console, retrieve all emails in the database by running the query Signup.all
-		• This query returns all emails in the database as an array. Your email should show up in the console output. To exit         the Rails console at any point, use Ctrl+D.
+		• This query returns all emails in the database as an array. Your email should show up in the console output. To exit the Rails console at any point, use Ctrl+D.
 
 
