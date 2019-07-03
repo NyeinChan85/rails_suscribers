@@ -24,14 +24,14 @@ Ruby on Rails is written in the Ruby programming language.
 ## How to run the test suite
 
 
-In the terminal, type rails server
+In the terminal, type **rails server**
 
 While it's running, to check the database, do the following:
 	
 		• In the terminal, open a new tab 
 		• Switch into your app’s folder
-		• Start the Rails console by running rails console
-		• When you enter the Rails console, retrieve all emails in the database by running the query Signup.all
+		• Start the Rails console by running **rails console**
+		• When you enter the Rails console, retrieve all emails in the database by running the query **Signup.all**
 		• This query returns all emails in the database as an array. Your email should show up in the console output. To exit the Rails console at any point, use Ctrl+D.
 
 
